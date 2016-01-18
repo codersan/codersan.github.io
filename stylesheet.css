@@ -1,0 +1,43 @@
+body {
+	background-image: url("img/bg3.jpg");
+}
+
+img {
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+}
+
+#content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -100px 0px 0px -300px;
+}
+
+#desc {
+	position: absolute;
+	margin: 10px 0px 0px 0px;
+	width: 500px;
+}
+
+#links {
+	position: absolute;
+	margin: 48px 0px 0px 200px;
+}
+
+h1 {
+    font-family: 'Lobster', Georgia, Times, serif;
+    font-size: 70px;
+    line-height: 100px;
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+    vertical-align: text-bottom;
+    padding: inherit;
+}
+
+p {
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
