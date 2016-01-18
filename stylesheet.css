@@ -16,6 +16,10 @@ img {
 	left: 50%;
 	margin: -200px 0px 0px -373px;
 }
+a, a:hover {
+    color: white;
+    text-decoration: initial;
+}
 
 #profiles {
 	position: absolute;
