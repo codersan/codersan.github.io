@@ -1,5 +1,7 @@
 body {
-	background-image: url("img/bg3.jpg");
+	background-image: url("img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 img {
@@ -8,27 +10,44 @@ img {
 	margin: 10px;
 }
 
-#content {
+#name {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin: -100px 0px 0px -300px;
+	margin: -200px 0px 0px -373px;
 }
 
-#desc {
+#profiles {
 	position: absolute;
-	margin: 10px 0px 0px 0px;
-	width: 500px;
+	margin: -5px 0px 0px 240px;
 }
 
-#links {
-	position: absolute;
-	margin: 48px 0px 0px 200px;
+#handle{
+  position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: 0px 0px 0px -150px;
 }
+
+#sites {
+	position: absolute;
+	margin: -10px 0px 0px 58px;
+}
+
 
 h1 {
-    font-family: 'Lobster', Georgia, Times, serif;
+    font-family: 'Pacifico', cursive;
     font-size: 70px;
+    line-height: 100px;
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+    vertical-align: text-bottom;
+    padding: inherit;
+}
+
+h4 {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
     line-height: 100px;
     color: #fff;
     margin: 0px 0px 0px 0px;
