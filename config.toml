@@ -2,6 +2,7 @@ baseURL = "https://codersan.github.io/"
 languageCode = 'en-us'
 title = 'Title'
 theme = "paper"
+publishDir = "docs"
 disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
 
 [params]
